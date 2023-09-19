@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Data Scientist / Machine Learning Engineer / Tech Enthusiast from India</h3>
 <br>
 
-- 🌱 I’m currently learning **Machine Learning, NLP, AWS Cloud**
+- 🌱 I’m currently learning **Machine Learning, NLP, Cloud**
 
 - 📫 How to reach me **harshitv804@gmail.com**
 
