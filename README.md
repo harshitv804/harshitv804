@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harshit V</h1>
-<h3 align="center">An Aspiring Data Scientist / Machine Learning Engineer / Tech Enthusiast from India</h3>
-<br>
+![](https://github.com/harshitv804/harshitv804/assets/100853494/1b161e1e-6fd3-4e91-999d-af898760d542)
+
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Cloud**
 
