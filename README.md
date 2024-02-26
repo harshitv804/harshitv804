@@ -1,4 +1,4 @@
-![](https://github.com/harshitv804/harshitv804/assets/100853494/1b161e1e-6fd3-4e91-999d-af898760d542)
+<img width="3089" alt="Frame 1 (5)" src="https://github.com/harshitv804/harshitv804/assets/100853494/52839318-350a-4cec-b0b4-dccaaf70c6b1">
 
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Cloud**
