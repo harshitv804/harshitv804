@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Cloud**
 
-- 📫 How to reach me **harshitv804@gmail.com**
+- 📫 How to reach me **harshitvenkatesan88@gmail.com**
 
 - ⚡ Fun fact **I am a space nerd**
 
