@@ -11,7 +11,7 @@
 ## Reach me:
 <a href="mailto:harshitvenkatesan88@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="harshitv804" height="30" width="35" /></a>
 
-## Github stats:
+## GitHub stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitv804&show_icons=true&locale=en&layout=compact" alt="harshitv804" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitv804&show_icons=true&locale=en" alt="harshitv804" /></p>
