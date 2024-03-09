@@ -14,5 +14,6 @@
 ## GitHub stats:
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitv804&show_icons=true&locale=en&layout=compact" alt="harshitv804" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harshitv804&show_icons=true&locale=en" alt="harshitv804" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitv804&" alt="harshitv804" /></p>
-<p><img height="130" src="https://github.com/harshitv804/harshitv804/assets/100853494/4d6f7463-dfcb-45cd-a927-c0753b9b5dc6"/></p>
+<div style="border-radius: 30px">
+<p><img height="130" style="border-radius: 30px" src="https://github.com/harshitv804/harshitv804/assets/100853494/4d6f7463-dfcb-45cd-a927-c0753b9b5dc6"/></p>
+</div>
