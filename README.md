@@ -1,4 +1,4 @@
-<img width="3089" alt="Frame 1 (5)" src="https://github.com/harshitv804/harshitv804/assets/100853494/52839318-350a-4cec-b0b4-dccaaf70c6b1">
+<img width="3089" src="https://github.com/harshitv804/harshitv804/assets/100853494/52839318-350a-4cec-b0b4-dccaaf70c6b1">
 
 ## Connect with me:
 <p align="left">
@@ -12,8 +12,7 @@
 <a href="mailto:harshitvenkatesan88@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="harshitv804" height="30" width="35" /></a>
 
 ## GitHub stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitv804&show_icons=true&locale=en&layout=compact" alt="harshitv804" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitv804&show_icons=true&locale=en" alt="harshitv804" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitv804&" alt="harshitv804" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitv804&show_icons=true&locale=en&layout=compact" alt="harshitv804" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=harshitv804&show_icons=true&locale=en" alt="harshitv804" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitv804&" alt="harshitv804" /></p>
+<p><img height="130" src="https://github.com/harshitv804/harshitv804/assets/100853494/4d6f7463-dfcb-45cd-a927-c0753b9b5dc6"/></p>
