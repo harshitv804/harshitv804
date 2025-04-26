@@ -1,4 +1,4 @@
-<img width="3089" src="https://github.com/harshitv804/harshitv804/assets/100853494/52839318-350a-4cec-b0b4-dccaaf70c6b1">
+<img width="3089" src="https://github.com/user-attachments/assets/cce151b7-49a5-43cb-8a97-ae1ea9c3ba24" />
 
 ## Connect with me:
 <p align="left">
